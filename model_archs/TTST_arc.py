@@ -76,7 +76,7 @@ class CAB(nn.Module):
 
 
 class Attention(nn.Module):
-     """Top-K Selective Attention (TTSA)
+    """Top-K Selective Attention (TTSA)
     Tips:
         Mainly borrows from DRSFormer (https://github.com/cschenxiang/DRSformer)
     """
